@@ -1,0 +1,106 @@
+﻿{
+  "InstalledPluginNames": [
+    "Obsolete field, using only for compatibility"
+  ],
+  "InstalledPlugins": [
+    {
+      "SystemName": "Payments.PayPalCommerce",
+      "Version": "4.80.16"
+    },
+    {
+      "SystemName": "DiscountRequirement.MustBeAssignedToCustomerRole",
+      "Version": "4.80.3"
+    },
+    {
+      "SystemName": "CurrencyExchange.ECB",
+      "Version": "4.80.3"
+    },
+    {
+      "SystemName": "Misc.Brevo",
+      "Version": "4.80.6"
+    },
+    {
+      "SystemName": "Misc.NopMobileApp",
+      "Version": "4.80.6"
+    },
+    {
+      "SystemName": "Misc.OmnibusDirective",
+      "Version": "4.80.4"
+    },
+    {
+      "SystemName": "Misc.Omnisend",
+      "Version": "4.80.6"
+    },
+    {
+      "SystemName": "Misc.PowerBI",
+      "Version": "4.80.5"
+    },
+    {
+      "SystemName": "Misc.WebApi.Frontend",
+      "Version": "4.80.6"
+    },
+    {
+      "SystemName": "Misc.Zettle",
+      "Version": "4.80.6"
+    },
+    {
+      "SystemName": "MultiFactorAuth.GoogleAuthenticator",
+      "Version": "4.80.4"
+    },
+    {
+      "SystemName": "Payments.AmazonPay",
+      "Version": "4.80.8"
+    },
+    {
+      "SystemName": "Payments.CheckMoneyOrder",
+      "Version": "4.80.3"
+    },
+    {
+      "SystemName": "Payments.Manual",
+      "Version": "4.80.3"
+    },
+    {
+      "SystemName": "Pickup.PickupInStore",
+      "Version": "4.80.5"
+    },
+    {
+      "SystemName": "Search.Lucene",
+      "Version": "4.80.5"
+    },
+    {
+      "SystemName": "Shipping.FixedByWeightByTotal",
+      "Version": "4.80.4"
+    },
+    {
+      "SystemName": "Shipping.UPS",
+      "Version": "4.80.5"
+    },
+    {
+      "SystemName": "Tax.Avalara",
+      "Version": "4.80.7"
+    },
+    {
+      "SystemName": "Tax.FixedOrByCountryStateZip",
+      "Version": "4.80.3"
+    },
+    {
+      "SystemName": "Widgets.FacebookPixel",
+      "Version": "4.80.4"
+    },
+    {
+      "SystemName": "Widgets.GoogleAnalytics",
+      "Version": "4.80.3"
+    },
+    {
+      "SystemName": "Widgets.Swiper",
+      "Version": "4.80.1"
+    },
+    {
+      "SystemName": "ExternalAuth.Facebook",
+      "Version": "4.80.5"
+    }
+  ],
+  "PluginNamesToUninstall": [],
+  "PluginNamesToDelete": [],
+  "PluginNamesToInstall": []
+}
